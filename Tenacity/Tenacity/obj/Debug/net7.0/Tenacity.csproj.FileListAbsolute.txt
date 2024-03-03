@@ -1,0 +1,11 @@
+I:\Mod Creation\Tenacity\Tenacity\Tenacity\bin\Debug\net7.0\Tenacity.deps.json
+I:\Mod Creation\Tenacity\Tenacity\Tenacity\bin\Debug\net7.0\Tenacity.dll
+I:\Mod Creation\Tenacity\Tenacity\Tenacity\bin\Debug\net7.0\Tenacity.pdb
+I:\Mod Creation\Tenacity\Tenacity\Tenacity\obj\Debug\net7.0\Tenacity.GeneratedMSBuildEditorConfig.editorconfig
+I:\Mod Creation\Tenacity\Tenacity\Tenacity\obj\Debug\net7.0\Tenacity.AssemblyInfoInputs.cache
+I:\Mod Creation\Tenacity\Tenacity\Tenacity\obj\Debug\net7.0\Tenacity.AssemblyInfo.cs
+I:\Mod Creation\Tenacity\Tenacity\Tenacity\obj\Debug\net7.0\Tenacity.csproj.CoreCompileInputs.cache
+I:\Mod Creation\Tenacity\Tenacity\Tenacity\obj\Debug\net7.0\Tenacity.dll
+I:\Mod Creation\Tenacity\Tenacity\Tenacity\obj\Debug\net7.0\refint\Tenacity.dll
+I:\Mod Creation\Tenacity\Tenacity\Tenacity\obj\Debug\net7.0\Tenacity.pdb
+I:\Mod Creation\Tenacity\Tenacity\Tenacity\obj\Debug\net7.0\ref\Tenacity.dll
