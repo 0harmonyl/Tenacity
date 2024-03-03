@@ -1,8 +1,9 @@
-using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
+using Tenacity.Ui;
 using UnityEngine;
+using System;
 
 namespace Tenacity.ModuleSystem
 {
@@ -25,6 +26,7 @@ namespace Tenacity.ModuleSystem
             foreach (var type in moduleTypes)
             {
                 Modules.Add(type, false);
+                ModuleUiMaker.CreateUiFromInterface((ITenacityModule)type);
             }
         }
 
