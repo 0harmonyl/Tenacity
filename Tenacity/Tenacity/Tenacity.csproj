@@ -317,5 +317,9 @@
         <HintPath>..\..\..\..\ProgramFiles\Steam\steamapps\common\Gorilla Tag\Gorilla Tag_Data\Managed\websocket-sharp.dll</HintPath>
       </Reference>
     </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Ui\" />
+    </ItemGroup>
         
 </Project>
